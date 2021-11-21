@@ -8,4 +8,4 @@
 * [第2章：Linux 系统的真实面貌](Chapter2/README.md)
   * [第2.1节：总览](Chapter2/2.1.md)
 * [第3章：硬件架构](Chapter3/README.md)
-  * [第3.1节：总览](Chapter3/di-3.1-jie-zong-lan.md)
+  * [第3.1节：总览](Chapter3/3.1.md)
