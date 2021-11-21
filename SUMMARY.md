@@ -6,6 +6,6 @@
   * [第1.2节：给系统建立模型](Chapter1/1.2/README.md)
     * [1.2.1 最简单的可能性的模型](Chapter1/1.2/1.2.1.md)
 
-## Chapter2
+## Chapter2 Linux系统的实际样貌 <a href="Chapter2" id="Chapter2"></a>
 
-* [Linux系统的实际样貌](chapter2/linux-xi-tong-de-shi-ji-yang-mao.md)
+* [2.1 Overview](Chapter2/2.1-overview.md)
